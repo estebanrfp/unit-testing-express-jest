@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing-express-jest",
+  "version": "1.0.0",
+  "description": "Unit testing express example",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "Esteban Fuster Pozzi <estebanrfp@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-env": "^7.5.5",
+    "jest": "^24.8.0",
+    "supertest": "^4.0.2"
+  }
+}
