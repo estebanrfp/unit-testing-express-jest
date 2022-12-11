@@ -10,7 +10,7 @@
   "author": "Esteban Fuster Pozzi <estebanrfp@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
